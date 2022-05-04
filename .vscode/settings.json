@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./INABIE_Dev_Env/Lib/site-packages/django/bin/INABIE_TIC"
+    ]
+}
