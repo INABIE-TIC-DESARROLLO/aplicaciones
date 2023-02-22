@@ -9,3 +9,5 @@ __pycache__
 db.sqlite3
 media
 settings.py
+settings_outside.py
+asgi_outside.py
